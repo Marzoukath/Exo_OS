@@ -1,0 +1,4 @@
+Code	Destination	Date	Sieges_Restants
+----------------------------------------------------
+1 Egypte          14/12/2028 2
+2 Rwanda          7/10/20025 2
